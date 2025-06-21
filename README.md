@@ -70,6 +70,13 @@ npm start
 6. Click "Apply Replacement" to process the data
 7. View the processed data in the table below
 
+After entering the api key into the correct place, the video below will show you how to use it.
+
+
+https://github.com/user-attachments/assets/85417866-a0a0-4869-bc6b-003d612e905d
+
+
+
 ## API Endpoints
 
 - `POST /api/files/` - Upload a file
