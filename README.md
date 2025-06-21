@@ -70,7 +70,7 @@ npm start
 6. Click "Apply Replacement" to process the data
 7. View the processed data in the table below
 
-After entering the api key into the correct place, the video below will show you how to use it.
+After entering the api key into the correct place, the video below will show you how to use it. And if you meet some probelms, you can trace the debug log in the terminal.
 
 
 https://github.com/user-attachments/assets/85417866-a0a0-4869-bc6b-003d612e905d
